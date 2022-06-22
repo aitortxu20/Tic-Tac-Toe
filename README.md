@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Code of Tic Tac Toe game
+Tic Tac Toe game with a Graphic Interface
